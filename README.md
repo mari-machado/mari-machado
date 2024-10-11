@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" loading="lazy">
-  <h3 align="center">Desenvolvedora de Software Back-end 👩🏻‍💻</h3>
+  <h3 align="center">Desenvolvedora de Software Full-Stack 👩🏻‍💻</h3>
 </p>
 
 _Olá, Me chamo **Maria Eduarda Machado**! Atualmente, estou cursando o Ensino Médio Técnico em Informática e sou apaixonada por tecnologia e design. Aqui no meu GitHub, você vai encontrar projetos que combinam criatividade e funcionalidade, utilizando tecnologias como **Node.js, TypeScript, e PostgreSQL**, além de dashboards com **Power BI**. Acredito no poder da tecnologia para resolver problemas e estou sempre buscando aprender mais e contribuir com a comunidade._ 
@@ -22,7 +22,7 @@ _Olá, Me chamo **Maria Eduarda Machado**! Atualmente, estou cursando o Ensino M
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💻 Bolsista do Mercado Livre (Betahub) - na @CubosAcademy
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🤝 Certificados de diversas instituições, incluindo Cubos Academy,   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USP, com foco em desenvolvimento e tecnologia.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DIO, ... com foco em desenvolvimento e tecnologia.
 
 <br>
 
