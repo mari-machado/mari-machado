@@ -8,7 +8,7 @@
   <h3 align="center">Desenvolvedora de Software Full-Stack 👩🏻‍💻</h3>
 </p>
 
-_Olá, Me chamo **Maria Eduarda Machado**! Atualmente, estou cursando o Ensino Médio Técnico em Informática e sou apaixonada por tecnologia e design. Aqui no meu GitHub, você vai encontrar projetos que combinam criatividade e funcionalidade, utilizando tecnologias como **Node.js, TypeScript, e PostgreSQL**, além de dashboards com **Power BI**. Acredito no poder da tecnologia para resolver problemas e estou sempre buscando aprender mais e contribuir com a comunidade._ 
+_Olá, Me chamo **Maria Eduarda Machado**! Aqui no meu GitHub, você vai encontrar projetos que combinam criatividade e funcionalidade, utilizando tecnologias como **Node.js, TypeScript, e PostgreSQL**, além de dashboards com **Power BI**. Acredito no poder da tecnologia para resolver problemas e estou sempre buscando aprender mais e contribuir com a comunidade._ 
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="230">
 
